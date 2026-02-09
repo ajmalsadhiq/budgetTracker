@@ -205,6 +205,7 @@ For issues or questions:
 
 Enjoy tracking your finances! 💰📊
 
+<img width="1910" height="849" alt="Screenshot 2026-02-09 202301" src="https://github.com/user-attachments/assets/4b12b2d3-0641-418f-9b0d-db4ee7f1a071" />
 <img width="1917" height="878" alt="Screenshot 2026-02-09 202317" src="https://github.com/user-attachments/assets/fe25a958-2ba4-48c9-a193-e555b33e349b" />
-<img width="1531" height="894" alt="Screenshot 2026-02-09 202450" src="https://github.com/user-attachments/assets/1f6f5c39-1724-4a35-9641-b2b42288d8ac" />
+
 
