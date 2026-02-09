@@ -206,6 +206,5 @@ For issues or questions:
 Enjoy tracking your finances! 💰📊
 working link https://ajmalsadhiq.github.io/budgetTracker/
 <img width="1910" height="849" alt="Screenshot 2026-02-09 202301" src="https://github.com/user-attachments/assets/4b12b2d3-0641-418f-9b0d-db4ee7f1a071" />
-<img width="1917" height="878" alt="Screenshot 2026-02-09 202317" src="https://github.com/user-attachments/assets/fe25a958-2ba4-48c9-a193-e555b33e349b" />
-
-
+<img width="1884" height="907" alt="Screenshot 2026-02-10 005028" src="https://github.com/user-attachments/assets/875f040c-990d-499d-816c-6bd592d7f3c6" />
+<img width="1894" height="906" alt="Screenshot 2026-02-10 005043" src="https://github.com/user-attachments/assets/01f23dda-53cb-4a1d-8982-5d6a8dd85855" />
